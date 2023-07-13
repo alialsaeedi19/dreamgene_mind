@@ -1,0 +1,11 @@
+{
+  "name": "dreamgene_mind",
+  "version": "0.0.1",
+  "description": "The AI mind behind the dreamgene project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": ""
+}
